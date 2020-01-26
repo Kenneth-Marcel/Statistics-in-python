@@ -8,3 +8,4 @@ This repository aims to document many statistical analysis techniques through th
 2. Regression Discontinuity Design: 
      Political Parties and Policy Outcomes:
      This notebook is investigating how outcome variables such as house prices is impacted by the party orientation of the governor or        senator in place.    
+Still in progress
